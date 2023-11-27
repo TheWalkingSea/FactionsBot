@@ -1,0 +1,1 @@
+This was one of my first discord bots that I created that managed factions in my friends minecraft server. It created categories and text channels and allowed for the creation and disbanding of clans.
