@@ -380,4 +380,4 @@ async def on_command_error(ctx, error):
     await ctx.send(error)
     raise error
 
-bot.run("ODUyMjY4OTY5MDkyMTg2MTEy.G5ZdP-.IsFZH5JjTWLXVgzt-I0xecnP-f3oe9CtIiRyIQ")
+bot.run("")
